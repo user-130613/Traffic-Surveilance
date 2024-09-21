@@ -1,0 +1,6 @@
+
+Drones, or unmanned aerial vehicles (UAVs), are increasingly utilized across various fields for purposes such as surveillance, traffic control, and photography. Our project focuses on developing advanced drones that leverage techniques like edge detection, object detection, image capturing, and mapping. By incorporating machine learning, particularly the YOLOv8 model and DeepSORT for tracking, the drones will analyze datasets to respond to commands and navigate autonomously.
+
+The drones will be capable of returning to specific locations using autopilot, regardless of how far they've traveled. Artificial Intelligence will enhance their ability to detect and track objects or people, processing vast amounts of data quickly and accurately, thereby aiding decision-making. Motion planning will allow the drones to identify and locate targets—such as individuals or vehicles—and chart optimal flight paths without needing detailed environmental mapping.
+
+Additionally, sensor data will be integrated with the drone's software and motherboard, creating an effective tool that can assist in performing complex tasks efficiently. Our goal is to design drones that improve operational effectiveness in various applications.
